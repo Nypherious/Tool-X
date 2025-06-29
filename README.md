@@ -1,4 +1,4 @@
-
+to it tyyyttpt0jt tf i0huftyy y 0g0pupu I u hhhyggggygggpvtpf
 
 
 
@@ -26,7 +26,7 @@ Tool-X was developed for Termux and linux based systems. Using Tool-X, you can i
 Tool-X works on any of the following operating systems:<br>
 • **Android** (Using the Termux App) <br>
 • **Linux** (Debian Based Systems) <br>
-• **Unix**
+• **Unix*9*
 
 ------------------------------------------------------------------------
 
